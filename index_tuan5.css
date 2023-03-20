@@ -1,0 +1,49 @@
+.layout {
+    display: flex;
+    /* justify-content: center; */
+}
+
+* {
+    margin: 0px;
+}
+
+
+/* ////// */
+
+.left_layout {
+    width: 140px;
+    display: flex;
+}
+
+.menu_header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    margin: 0px 20px;
+}
+
+.header1 {
+    height: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic_ct {
+    display: flex;
+}
+
+
+/* ///////////////////////////////////////////////// */
+
+.mid_layout {
+    width: 1160px;
+}
+
+
+/* //////////////////////////////////////////////// */
+
+.right_layout {
+    width: 140px;
+}
